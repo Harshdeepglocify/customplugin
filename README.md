@@ -1,0 +1,2 @@
+# customplugin
+wordpress custom plugin
